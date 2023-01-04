@@ -10,7 +10,7 @@ export const Products = [
                 id: 2,
                 name: "Samsung Galaxy S21 Ultra",
                 description: "The premium Samsung smartphone with a 6.8-inch AMOLED 2X display, 5G capabilities, and a powerful Exynos 2100 processor.",
-                price: "1,199.99",
+                price: "1199.99",
                 imageUrl: "https://cdn.shopify.com/s/files/1/1706/9177/products/samsung-galaxy-s21-ultra-g998-5g-128gb-dual-sim-negro_540x.jpg?v=1619686227"
         },
         {
@@ -24,7 +24,7 @@ export const Products = [
                 id: 4,
                 name: "Apple MacBook Pro",
                 description: "The latest MacBook Pro model featuring a 13.3-inch Retina display, 8th-generation Intel Core i5 processor, and Touch Bar.",
-                price: "1,299.99",
+                price: "1299.99",
                 imageUrl: 'https://mcsolution.com.bd/wp-content/uploads/2022/06/macbook-pro-m2-macbook-pro-price-in-bd.webp'
         },
         {
@@ -38,7 +38,7 @@ export const Products = [
                 id: 6,
                 name: "Dell XPS 13",
                 description: "The latest Dell XPS 13 model featuring a 13.3-inch FHD+ InfinityEdge display, 11th-generation Intel Core i7 processor, and Windows 10 operating system.",
-                price: "1,199.99",
+                price: "1199.99",
                 imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N77gnz6UCgMB81ERmsZUZ3VsGto5HVxttw&usqp=CAU'
         },
         {
@@ -66,7 +66,7 @@ export const Products = [
                 id: 10,
                 name: "LG OLED CX Series Smart TV",
                 description: "A 55-inch 4K smart TV with an OLED display, ThinQ AI technology, and support for popular streaming apps.",
-                price: "1,799.99",
+                price: "1799.99",
                 imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10t38AmzmoiRemOuTIHmZtDNEhvibOlnTmg&usqp=CAU'
         }
 ]

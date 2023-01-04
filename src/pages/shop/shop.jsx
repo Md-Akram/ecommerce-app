@@ -6,7 +6,7 @@ export const Shop = () => {
     return (
         <div className="shop">
             <div className="products">
-                {Products.map(product => <Product data={product} />)}
+                {Products.map(product => <Product key={product.id} data={product} />)}
             </div>
         </div>
     )
